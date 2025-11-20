@@ -1,0 +1,5 @@
+{
+  "name": "Smart DSR Calculator",
+  "description": "A comprehensive Debt Service Ratio (DSR) calculator with Stress DSR options, repayment visualizations, and AI-powered financial advice using Gemini.",
+  "requestFramePermissions": []
+}
